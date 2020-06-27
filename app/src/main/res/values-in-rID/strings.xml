@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="deskripsi_tombol_cari">Ini adalah tombol cari</string>
+    <string name="search_hint">Cari..</string>
+    <string name="no_data">Data tidak ditemukan</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="empty">Kosong</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user_type">Tipe Pengguna : %s</string>
+    <string name="user_id">ID Pengguna : %d</string>
+    <string name="search_message">Inputan Kosong</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+</resources>
